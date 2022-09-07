@@ -1,8 +1,7 @@
 MET landing
+
 Stack used:
-
 HTML
-
 SCSS(Sass)
 
 [DEMO LINK](https://denenergi.github.io/layout_miami/)
